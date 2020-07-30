@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 #### Contact 📫
 
-linkedin: https://www.linkedin.com/public-profile/in/hugo-larrousse
+[![Linkedin](assets/linkedin.png)](https://www.linkedin.com/public-profile/in/hugo-larrousse)
