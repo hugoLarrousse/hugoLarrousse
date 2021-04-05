@@ -1,6 +1,6 @@
 ## Hello I'm Hugo 😄
 
-#### About me 💬
+### About me 💬
 
 * Another travel fan ✈
 * Freelance (currently unavailable)
@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### My main stack 🔭
+### My main stack 🔭
 
 !["VueJS"](https://heptaward-assets.s3.eu-west-3.amazonaws.com/vuejs.png "VueJS")!["NodeJS"](https://heptaward-assets.s3.eu-west-3.amazonaws.com/nodeJS.png "NodeJS")!["TailwindCSS"](https://heptaward-assets.s3.eu-west-3.amazonaws.com/tailwind.png "Tailwind CSS")!["MongoDB"](https://heptaward-assets.s3.eu-west-3.amazonaws.com/mongodb.png "MongoDB")!["AWS"](https://heptaward-assets.s3.eu-west-3.amazonaws.com/aws.jpeg "AWS")
 
-#### Contact 📫
+### Contact 📫
 
 [![Linkedin](https://heptaward-assets.s3.eu-west-3.amazonaws.com/linkedin.png)](https://www.linkedin.com/public-profile/in/hugo-larrousse)
 
