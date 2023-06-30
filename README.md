@@ -7,7 +7,6 @@
 * Javascript Lover
 * NodeJs fan
 * AngularJs nostalgic (yes Js)
-* More activities on my Gitlab account: https://gitlab.com/hugoLarrousse
 
 <!--
 Here are some ideas to get you started:
