@@ -1,12 +1,11 @@
 ## 😄 Hello I'm Hugo 😄
 
 ### About me 💬
-
+* Backend developer @Magma-app
 * Another travel fan ✈
-* Freelance (currently unavailable)
 * Javascript Lover
 * NodeJs fan
-* AngularJs nostalgic (yes Js)
+* AngularJs nostalgic (yes the V1)
 
 <!--
 Here are some ideas to get you started:
